@@ -33,6 +33,6 @@ main.o:main.c myMath.h
 clean:
 	rm *.o *.a *.so mains maind
 
-.PHONY:cleana
+.PHONY:clean all
 
 
